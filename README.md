@@ -17,7 +17,7 @@ Team Name: Buttermilk
 
 Team Members
 
-Team Lead: Hari S — B.Tech CSE with Specialization in AI & ML, 3rd Year — JAIN (Deemed-to-be University), Kochi
+Member: Hari S — B.Tech CSE with Specialization in AI & ML, 3rd Year — JAIN (Deemed-to-be University), Kochi
 
 Member: Jeevananthan S — B.Tech CSE with Specialization in AI & ML, 3rd Year — JAIN (Deemed-to-be University), Kochi
 
@@ -250,8 +250,8 @@ Sensitive data such as passwords, private messages, API keys, banking informatio
 Architecture
 
 flowchart TD
-    A[User Computer Activity] --> B1[Desktop Observer]
-    A --> B2[Browser Extension]
+A[User Computer Activity] --> B1[Desktop Observer]
+A --> B2[Browser Extension]
 
     B1 --> C[Local Event Bus]
     B2 --> C
@@ -322,12 +322,12 @@ Generating AI images during every interaction would be slow and often less cultu
 Each meme can contain metadata similar to:
 
 {
-  "id": "meme_00421",
-  "type": "image",
-  "tags": ["caught", "suspicious", "side-eye", "exposed"],
-  "tone": "sarcastic",
-  "intensity": 8,
-  "best_for": ["embarrassing behaviour", "contradiction", "suspicious activity"]
+"id": "meme_00421",
+"type": "image",
+"tags": ["caught", "suspicious", "side-eye", "exposed"],
+"tone": "sarcastic",
+"intensity": 8,
+"best_for": ["embarrassing behaviour", "contradiction", "suspicious activity"]
 }
 
 A vision-language embedding model indexes the meme collection in advance. During runtime, the context engine can search semantically for concepts such as:
@@ -450,7 +450,8 @@ Project Documentation
 Screenshots
 
 Screenshot 1 — Main Outcognito Feed
->>>>>>> fab27b47e7abc843349419c3f3318e684de215fe
+
+> > > > > > > fab27b47e7abc843349419c3f3318e684de215fe
 
 Account
 

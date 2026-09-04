@@ -1,28 +1,54 @@
-# Dependencies
-node_modules/
-.pnpm-store/
+# ==========================================
+# Outcognito Monorepo - Comprehensive .gitignore
+# ==========================================
 
-# Next.js build & outputs
-.next/
-out/
-build/
-.vercel/
-
-# Extension build & outputs
-dist/
-dist-ssr/
-apps/extension/dist/
-
-# Environment variables & secrets
+# 1. Environment & Sensitive Files
 .env
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
 .env*.local
+*.env
 *.pem
+*.key
+*.crt
+*.p12
+*.pfx
+id_rsa*
+credentials.json
+secrets.json
+.aws/
+.gcp/
 
-# Logs
+# 2. Local Container & Orchestration Files
+docker-compose.yml
+docker-compose*.yml
+docker-compose*.yaml
+
+# 3. Archives & Compressed Packages
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+outcognito-api.zip
+
+# 4. Dependencies
+node_modules/
+.pnpm-store/
+
+# 5. Build & Output Directories
+.next/
+out/
+build/
+.vercel/
+dist/
+dist-ssr/
+apps/extension/dist/
+
+# 6. Logs & Debugging Output
 logs/
 *.log
 npm-debug.log*
@@ -30,7 +56,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# Caches and temporary files
+# 7. Caches & Temporary Files
 .cache/
 .turbo/
 .eslintcache
@@ -38,7 +64,7 @@ pnpm-debug.log*
 .tmp/
 temp/
 
-# OS metadata
+# 8. OS Metadata
 .DS_Store
 .DS_Store?
 ._*
@@ -46,7 +72,8 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# IDEs and Editors
+# 9. IDEs & Editors
+.vscode/
 .idea/
 *.suo
 *.ntvs*
@@ -55,10 +82,10 @@ Desktop.ini
 *.swp
 *.swo
 
-# Coverage & Testing
+# 10. Testing & Coverage
 coverage/
 .nyc_output/
 
-# Auto-generated agent files
+# 11. Auto-generated Agent files
 AGENTS.md
 CLAUDE.md
