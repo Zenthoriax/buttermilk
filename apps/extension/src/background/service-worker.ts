@@ -1,20 +1,24 @@
-import { getSettings, pushRecentSignal } from "../storage/storage";
+import { getSettings, pushRecentSignal, setSettings } from "../storage/storage";
+import { processUrlThroughFirewall } from "../privacy/firewall";
 
 console.log(`[Outcognito] service worker booted at ${new Date().toISOString()}`);
 
 chrome.runtime.onInstalled.addListener(async (details) => {
   console.log(`[Outcognito] onInstalled fired, reason: ${details.reason}`);
 
-  // 1. Test reading settings (this will return default settings if storage is empty)
-  const settings = await getSettings();
-  console.log("[Outcognito] Current settings:", settings);
+  // Test 1: Normal URL with path, query, and "www."
+  const safe1 = await processUrlThroughFirewall("https://www.github.com/zenthoriax/outcognito?secret=123");
+  console.log("[Firewall Test 1] Normal URL:", safe1);
 
-  // 2. Test pushing a signal to the ring buffer
-  await pushRecentSignal({
-    type: "domain_enter",
-    domain: "outcognito.com",
-    category: "general",
-    timestamp: new Date().toISOString(),
-  });
-  console.log("[Outcognito] Test signal pushed to recentSignals ring buffer.");
+  // Test 2: Sensitive URL (from default ignored list)
+  const safe2 = await processUrlThroughFirewall("https://mail.google.com/mail/u/0/#inbox");
+  console.log("[Firewall Test 2] Sensitive URL:", safe2);
+
+  // Test 3: Paused tracking state
+  await setSettings({ enabled: false });
+  const safe3 = await processUrlThroughFirewall("https://news.ycombinator.com");
+  console.log("[Firewall Test 3] Paused State:", safe3);
+
+  // Reset settings back to active for future phases
+  await setSettings({ enabled: true });
 });
