@@ -2,7 +2,7 @@
 
 
 
-Outcognito 🎯
+**Outcognito 🎯**
 
 What if everything you did on your computer became everyone's business?
 
