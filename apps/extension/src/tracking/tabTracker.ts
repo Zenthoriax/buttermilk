@@ -25,7 +25,14 @@ export async function handleTabChange(rawUrl: string | undefined) {
   const now = new Date().toISOString();
 
   const dailyStats = await getDailyStats();
-  await setDailyStats({ tabSwitches: dailyStats.tabSwitches + 1 });
+  
+  // Check if this is an AI visit
+  const aiIncrement = category === "ai" ? 1 : 0;
+
+  await setDailyStats({ 
+    tabSwitches: dailyStats.tabSwitches + 1,
+    aiVisits: dailyStats.aiVisits + aiIncrement 
+  });
 
   await setSession({
     currentDomain: safeHostname,
