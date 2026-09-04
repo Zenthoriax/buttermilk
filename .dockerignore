@@ -1,0 +1,21 @@
+# Dependencies & Builds
+node_modules
+.next
+dist
+out
+build
+coverage
+
+# Version Control & IDEs
+.git
+.gitignore
+.vscode
+.idea
+
+# Documentation & Temp Logs
+docs
+*.log
+.cache
+.turbo
+AGENTS.md
+CLAUDE.md

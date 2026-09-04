@@ -2,7 +2,7 @@ import { initTabTracking } from "../tracking/tabTracker";
 import { initWindowTracking } from "../tracking/windowTracker";
 import { initIdleTracking } from "../tracking/idleTracker";
 import { checkAndResetDailyStats } from "../tracking/rollover";
-import { initLocalAPI } from "../api/messageHandler";
+import { initLocalAPI, initExternalAPI } from "../api/messageHandler";
 import { initCloudSync, syncEventsToCloud } from "../api/cloudSync";
 import { logValidatedEvent } from "../events/eventLogger";
 
@@ -12,8 +12,9 @@ console.log(`[Outcognito] service worker booted at ${new Date().toISOString()}`)
 initTabTracking();
 initWindowTracking();
 initIdleTracking();
-// Boot up the Local API
+// Boot up Local & External API
 initLocalAPI();
+initExternalAPI();
 
 // 1. Check for midnight rollover immediately when the worker wakes up
 checkAndResetDailyStats();
