@@ -34,10 +34,11 @@ export async function analyzePatterns(domain: string, category: string) {
     }
   }
 
-  // 6. Calculate Roastability
+  // 6. Calculate Roastability (Toned Down)
   let roastScore = 0.2; 
   if (rapidSwitches >= 2) {
-     roastScore += (rapidSwitches * 0.3);
+     // REDUCED: Now only adds 0.1 per rapid switch instead of 0.3
+     roastScore += (rapidSwitches * 0.1);
   } else {
      roastScore += ((count - 3) * 0.05); 
   }

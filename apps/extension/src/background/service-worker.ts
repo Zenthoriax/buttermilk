@@ -4,6 +4,7 @@ import { initIdleTracking } from "../tracking/idleTracker";
 import { checkAndResetDailyStats } from "../tracking/rollover";
 import { initLocalAPI } from "../api/messageHandler";
 import { initCloudSync, syncEventsToCloud } from "../api/cloudSync";
+import { logValidatedEvent } from "../events/eventLogger";
 
 console.log(`[Outcognito] service worker booted at ${new Date().toISOString()}`);
 
@@ -43,3 +44,5 @@ chrome.action.onClicked.addListener(async (tab) => {
     });
   }
 });
+// Expose the logger to the DevTools console for testing
+(globalThis as any).testBouncer = logValidatedEvent;
