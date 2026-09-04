@@ -1,4 +1,5 @@
 import { getSession, setSession, getDailyStats, setDailyStats } from "../storage/storage";
+import { logValidatedEvent } from "../events/eventLogger";
 
 /**
  * Calculates the time elapsed since the current tab was focused,
@@ -42,12 +43,40 @@ export async function finalizeDuration() {
   });
 
   console.log(`[DurationTracker] Logged ${durationSeconds}s for ${session.currentDomain} (${session.currentCategory})`);
+
+  // --- NEW: Construct and validate the strict event schema ---
+  const rawEvent = {
+    eventId: crypto.randomUUID(),
+    category: session.currentCategory,
+    eventType: "duration_logged",
+    description: `User spent ${durationSeconds} seconds on ${session.currentDomain}.`,
+    stats: {
+      durationSeconds: durationSeconds,
+    },
+    roastability: 0.1, // Default baseline for now
+    privacyLevel: "safe",
+    timestamp: new Date().toISOString(),
+  };
+
+  // Pass it to our bouncer to validate against the Zod schema
+  await logValidatedEvent(rawEvent);
 }
 
 /**
  * Starts the timer for the currently active tab.
  */
+/**
+ * Starts the timer for the currently active tab, but ONLY if Chrome is in focus.
+ */
 export async function startDuration() {
+  const session = await getSession();
+  
+  // The Ghost Time Killer: Do not start the clock if Chrome is in the background
+  if (session.browserFocused === false) {
+    console.log("[DurationTracker] Blocked start: Chrome is not in focus.");
+    return;
+  }
+
   await setSession({ tabStartedAt: Date.now() });
   console.log("[DurationTracker] Timing started");
 }

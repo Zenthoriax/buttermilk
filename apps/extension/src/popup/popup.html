@@ -1,15 +1,28 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Outcognito</title>
     <link rel="stylesheet" href="popup.css" />
   </head>
   <body>
-    <main class="popup">
-      <h1>OUTCOGNITO</h1>
-      <p id="status">Loading...</p>
-    </main>
+    <h2>Outcognito</h2>
+    
+    <div class="stat-card">
+      <p class="stat-title">Total Active Time</p>
+      <p class="stat-value" id="total-time">0m 0s</p>
+    </div>
+
+    <div class="stat-card">
+      <p class="stat-title">AI Tool Visits</p>
+      <p class="stat-value" id="ai-visits">0</p>
+    </div>
+
+    <div class="category-list" id="category-container">
+      <!-- Categories will be injected here by TypeScript -->
+    </div>
+
     <script type="module" src="popup.js"></script>
   </body>
 </html>

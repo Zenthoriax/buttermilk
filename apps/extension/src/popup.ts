@@ -1,5 +1,8 @@
-import { getDailyStats } from "../storage/storage";
+import { getDailyStats } from "./storage/storage";
 
+/**
+ * Converts raw seconds into a readable string (e.g., "12m 34s")
+ */
 function formatTime(totalSeconds: number): string {
   const m = Math.floor(totalSeconds / 60);
   const s = totalSeconds % 60;
@@ -22,10 +25,11 @@ async function initPopup() {
     aiVisitsEl.textContent = stats.aiVisits.toString();
   }
 
-  // 3. Update Category Breakdown Bars
+  // 3. Update Category Breakdown
   const containerEl = document.getElementById("category-container");
   if (!containerEl) return;
 
+  // Clear any existing content
   containerEl.innerHTML = "";
 
   const categories = Object.entries(stats.categorySeconds);
@@ -34,15 +38,20 @@ async function initPopup() {
     return;
   }
 
-  // Sort by highest time first
+  // Sort categories by time spent (descending)
   categories.sort((a, b) => b[1] - a[1]);
+
+  // Find the maximum time to calculate relative bar widths
   const maxTime = categories[0][1];
 
   for (const [category, seconds] of categories) {
+    // Ensure even small values get at least a 5% sliver of a bar so they are visible
     const percentage = Math.max(5, Math.round((seconds / maxTime) * 100));
 
+    // Create the standard DOM wrapper for the category item
     const itemDiv = document.createElement("div");
     
+    // Header containing name and time
     const headerDiv = document.createElement("div");
     headerDiv.className = "category-item";
     
@@ -55,6 +64,7 @@ async function initPopup() {
     headerDiv.appendChild(nameSpan);
     headerDiv.appendChild(timeSpan);
 
+    // Visual bar using standard div styling
     const bgDiv = document.createElement("div");
     bgDiv.className = "bar-bg";
 
@@ -63,6 +73,8 @@ async function initPopup() {
     fillDiv.style.width = `${percentage}%`;
 
     bgDiv.appendChild(fillDiv);
+
+    // Assemble the components
     itemDiv.appendChild(headerDiv);
     itemDiv.appendChild(bgDiv);
 
@@ -70,12 +82,5 @@ async function initPopup() {
   }
 }
 
-// Initial load when popup opens
-initPopup().catch(console.error);
-
-// Listen for real-time updates from the background worker
-chrome.storage.local.onChanged.addListener((changes) => {
-  if (changes.dailyStats) {
-    initPopup().catch(console.error);
-  }
-});
+// Run the initialization as soon as the popup's HTML has loaded
+document.addEventListener("DOMContentLoaded", initPopup);

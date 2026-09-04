@@ -2,6 +2,7 @@ import { processUrlThroughFirewall } from "../privacy/firewall";
 import { categorizeDomain } from "./domainCategories";
 import { getSession, setSession, pushRecentSignal, getDailyStats, setDailyStats } from "../storage/storage";
 import { finalizeDuration, startDuration } from "./durationTracker";
+import { analyzePatterns } from "../patterns/patternEngine"; // Updated import
 
 export async function handleTabChange(rawUrl: string | undefined) {
   const safeHostname = await processUrlThroughFirewall(rawUrl);
@@ -48,6 +49,9 @@ export async function handleTabChange(rawUrl: string | undefined) {
 
   // Start the clock for the new domain
   await startDuration();
+
+  // --- NEW: Trigger Universal Pattern Analysis ---
+  await analyzePatterns(safeHostname, category);
 
   console.log(`[TabTracker] Tracked safe switch to: ${safeHostname} (${category})`);
 }

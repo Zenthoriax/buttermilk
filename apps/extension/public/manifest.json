@@ -1,15 +1,21 @@
 {
-  "manifest_version": 3,
   "name": "Outcognito",
   "version": "0.1.0",
-  "description": "Privacy-first behavioral tracking for Outcognito.",
-  "permissions": ["tabs", "storage", "idle", "alarms"],
-  "host_permissions": ["http://localhost/*"],
+  "manifest_version": 3,
+  "permissions": ["storage", "tabs", "windows", "alarms", "idle"],
   "background": {
     "service_worker": "service-worker.js",
     "type": "module"
   },
   "action": {
-    "default_popup": "popup.html"
-  }
+    "default_title": "Outcognito Options"
+  },
+  "options_page": "options.html",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["content.css"]
+    }
+  ]
 }

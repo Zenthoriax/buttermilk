@@ -1,0 +1,59 @@
+#outcognito-glass-root {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 2147483647; /* Forces it above everything on the page */
+  width: 280px;
+  padding: 16px;
+  
+  /* The Dark Glass Effect */
+  background: rgba(10, 10, 10, 0.65);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  
+  border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  
+  color: #ffffff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  
+  /* Hidden by default, toggled by the background script */
+  display: none;
+  flex-direction: column;
+  gap: 12px;
+}
+
+#outcognito-glass-root.active {
+  display: flex;
+}
+
+.outcognito-header {
+  font-size: 14px;
+  font-weight: 600;
+  color: #bb86fc;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 8px;
+}
+
+.outcognito-stat-box {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 8px;
+  padding: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.outcognito-label {
+  font-size: 10px;
+  color: #aaaaaa;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+
+.outcognito-value {
+  font-size: 24px;
+  font-weight: 700;
+  margin: 0;
+}
