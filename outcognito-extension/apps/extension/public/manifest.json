@@ -1,0 +1,46 @@
+{
+  "name": "Outcognito",
+  "description": "Privacy-safe browser activity becomes an AI-generated social feed.",
+  "version": "0.1.0",
+  "manifest_version": 3,
+
+  "permissions": [
+    "storage",
+    "tabs",
+    "windows",
+    "alarms",
+    "idle"
+  ],
+
+  "host_permissions": [
+    "https://mrvn7840mi.execute-api.ap-south-1.amazonaws.com/*"
+  ],
+
+  "background": {
+    "service_worker": "service-worker.js",
+    "type": "module"
+  },
+
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+
+  "action": {
+    "default_title": "Outcognito",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+
+  "options_page": "options.html",
+
+  "externally_connectable": {
+    "matches": [
+      "http://localhost:3000/*"
+    ]
+  }
+}

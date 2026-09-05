@@ -1,0 +1,2488 @@
+[
+  {
+    "id": "kill-yourself-guy",
+    "filename": "kill-yourself-guy.jpg",
+    "displayName": "Kill-Yourself Guy",
+    "description": "A reaction meme featuring a man’s face with a visibly exasperated or shocked expression (the 'kill-yourself-guy' archetype). The character conveys extreme disbelief or harsh judgment in response to someone’s actions.",
+    "tags": [
+      "severe disbelief",
+      "harsh sarcasm",
+      "mocking mistake",
+      "overreacting",
+      "ridiculous decision",
+      "outrageous behavior",
+      "kill yourself guy",
+      "shocked face",
+      "exasperated reaction",
+      "disbelief meme"
+    ],
+    "situations": [
+      "when user repeats the same mistake",
+      "after reckless or chaotic browsing",
+      "seeing a ridiculously bad decision",
+      "user overreacts dramatically",
+      "tiny achievement presented with hype",
+      "someone does something unacceptable"
+    ],
+    "emotions": [
+      "disbelief",
+      "shock",
+      "exasperation",
+      "sarcasm"
+    ],
+    "reactionType": "disbelief",
+    "characters": {
+      "certified_hater": 1,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.8,
+      "society_aunty": 0.6,
+      "detective": 0.4,
+      "linkedin_sigma": 0.3,
+      "maincharacter": 0.7
+    },
+    "intensity": 0.9,
+    "versatility": 0.7,
+    "negativeTags": [
+      "genuine achievement",
+      "positive encouragement",
+      "supportive feedback",
+      "neutral information",
+      "simple greeting"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 195,
+      "originalName": "kill-yourself-guy",
+      "originalDescription": "A reaction meme featuring a man’s face with a visibly exasperated or shocked expression (the 'kill-yourself-guy' archetype). The character conveys extreme disbelief or harsh judgment in response to someone’s actions.",
+      "originalUsecases": [
+        "Expressing severe disbelief at someone's actions",
+        "Reacting to a dumb or reckless mistake with harsh sarcasm",
+        "Mocking someone for overreacting or making a ridiculous decision",
+        "Commenting on outrageous or unacceptable behavior"
+      ]
+    }
+  },
+  {
+    "id": "why-the-fuck",
+    "filename": "why-the-fuck.jpg",
+    "displayName": "Why The Fuck",
+    "description": "A reaction meme expressing bafflement or disbelief, typically a close‑up face with the caption “why the fuck”, used to question ridiculous, confusing, or nonsensical actions.",
+    "tags": [
+      "bafflement",
+      "confusion",
+      "disbelief",
+      "irritation",
+      "sarcastic questioning",
+      "failed plan",
+      "ridiculous decision",
+      "unexpected mistake",
+      "frustration",
+      "why the fuck meme"
+    ],
+    "situations": [
+      "repeating the same mistake",
+      "seeing a nonsensical decision",
+      "encountering a confusing website error",
+      "witnessing an absurd action",
+      "unexpected pop‑up or glitch"
+    ],
+    "emotions": [
+      "confusion",
+      "irritation",
+      "frustration",
+      "disbelief"
+    ],
+    "reactionType": "bafflement",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.1,
+      "chronicallyonline": 0.7,
+      "society_aunty": 0.2,
+      "detective": 0.2,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.6
+    },
+    "intensity": 0.8,
+    "versatility": 0.85,
+    "negativeTags": [
+      "celebration",
+      "positive achievement",
+      "motivational content",
+      "professional endorsement",
+      "happy news"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 295,
+      "originalName": "why-the-fuck",
+      "originalDescription": "A reaction meme template named 'why-the-fuck' used to express bafflement or disbelief; typically features a close-up or still that conveys confusion or irritation, and is captioned with 'why the fuck' to emphasize the speaker's incredulity. The exact character or scene varies across edits.",
+      "originalUsecases": [
+        "Express disbelief at a ridiculous action or decision",
+        "Comment on something inexplicably confusing or nonsensical",
+        "Vent frustration at a failed plan or obvious mistake",
+        "Sarcastically question why something happened"
+      ]
+    }
+  },
+  {
+    "id": "dolan-meme",
+    "filename": "dolan-meme.jpg",
+    "displayName": "Dolan Meme",
+    "description": "A crudely drawn blue duck (Dolan) with a red shirt, featuring a wide-eyed, smug or blank grin. The art style is intentionally low-quality and childlike, usually paired with bold white caption text to convey sarcasm or irony.",
+    "tags": [
+      "cringe reaction",
+      "sarcastic mockery",
+      "ironic smug",
+      "embarrassing moment",
+      "petty behavior",
+      "blue duck",
+      "dolan meme",
+      "online drama",
+      "confused disbelief",
+      "blank grin"
+    ],
+    "situations": [
+      "when user repeats a mistake",
+      "after a tiny achievement",
+      "seeing chaotic browsing",
+      "reacting to petty win",
+      "mocking self‑inflicted cringe",
+      "responding to unexpected behavior"
+    ],
+    "emotions": [
+      "irony",
+      "sarcasm",
+      "disbelief",
+      "embarrassment"
+    ],
+    "reactionType": "sarcastic_irony",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.8,
+      "society_aunty": 0.5,
+      "detective": 0.1,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.6
+    },
+    "intensity": 0.7,
+    "versatility": 0.8,
+    "negativeTags": [
+      "serious achievement",
+      "professional announcement",
+      "formal communication",
+      "celebratory milestone",
+      "sympathetic support",
+      "urgent emergency"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 3,
+      "originalName": "dolan-meme",
+      "originalDescription": "A crudely drawn blue duck (Dolan) with a red shirt, featuring a wide-eyed, smug or blank grin. The art style is intentionally low-quality and childlike, usually paired with bold white caption text to convey sarcasm or irony.",
+      "originalUsecases": [
+        "Reacting to cringe-worthy moments or embarrassing takes",
+        "Mocking petty behavior or small wins with ironic smugness",
+        "Captioning random, nonsensical scenarios for humor",
+        "Expressing disbelief or confusion in response to a situation",
+        "Ditting blunt or bluntly sarcastic reactions in online drama"
+      ]
+    }
+  },
+  {
+    "id": "obama-laughing",
+    "filename": "obama-laughing.jpg",
+    "displayName": "Obama Laughing",
+    "description": "A meme template featuring Barack Obama mid-laugh, with an open mouth and a carefree, contagious grin, often captured in a candid, lighthearted moment indicating loud amusement or mockery.",
+    "tags": [
+      "obama meme",
+      "laugh reaction",
+      "mocking failure",
+      "ridiculous claim",
+      "cringe moment",
+      "sarcastic laugh",
+      "witty comeback",
+      "exaggerated amusement",
+      "mocking hypocrisy"
+    ],
+    "situations": [
+      "reacting to a ridiculous claim or cringe-worthy moment",
+      "mocking a failed plan or obvious hypocrisy",
+      "celebrating a witty burn or clever comeback",
+      "conveying exaggerated amusement at surprising or stupid news",
+      "responding to a stupid or absurd statement"
+    ],
+    "emotions": [
+      "amusement",
+      "mockery",
+      "sarcasm",
+      "delight"
+    ],
+    "reactionType": "sarcastic_laugh",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.8,
+      "society_aunty": 0.4,
+      "detective": 0.3,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.7
+    },
+    "intensity": 0.7,
+    "versatility": 0.8,
+    "negativeTags": [
+      "serious tragedy",
+      "condolences",
+      "formal announcement",
+      "respectful mourning",
+      "professional apology"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 8,
+      "originalName": "obama-laughing",
+      "originalDescription": "A meme template featuring Barack Obama mid-laugh, with an open mouth and a carefree, contagious grin, often captured in a candid, lighthearted moment indicating loud amusement or mockery.",
+      "originalUsecases": [
+        "Reacting to a ridiculous claim or cringe-worthy moment",
+        "Mocking a failed plan or obvious hypocrisy",
+        "Celebrating a witty burn or clever comeback",
+        "Conveying exaggerated amusement at surprising or stupid news"
+      ]
+    }
+  },
+  {
+    "id": "homer-retard",
+    "filename": "homer-retard.jpg",
+    "displayName": "homer-retard",
+    "description": "A meme template featuring Homer Simpson with a goofy, clueless expression (wide eyes, slack jaw) that signals stupidity or sarcastic disbelief.",
+    "tags": [
+      "obvious mistake",
+      "slow realization",
+      "self-deprecating",
+      "overreacting",
+      "trivial problem",
+      "dumb mistake",
+      "confused reaction",
+      "sarcastic disbelief"
+    ],
+    "situations": [
+      "repeating the same simple error",
+      "failing an obviously easy task",
+      "missing an obvious point",
+      "overreacting to a minor issue",
+      "realizing a clueless comment after posting"
+    ],
+    "emotions": [
+      "confusion",
+      "embarrassment",
+      "sarcasm",
+      "frustration"
+    ],
+    "reactionType": "facepalm",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.8,
+      "society_aunty": 0.5,
+      "detective": 0.1,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.6
+    },
+    "intensity": 0.7,
+    "versatility": 0.8,
+    "negativeTags": [
+      "serious tragedy",
+      "high stakes failure",
+      "professional misconduct",
+      "violent content",
+      "political controversy",
+      "deep emotional trauma"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 0,
+      "originalName": "homer-retard",
+      "originalDescription": "A meme template featuring Homer Simpson with a goofy, clueless expression (wide eyes, slack jaw) that signals stupidity or sarcastic disbelief.",
+      "originalUsecases": [
+        "Reacting to an obviously dumb mistake or a slow realization",
+        "Joking about not understanding something obvious",
+        "Self-deprecating humor about one's own incompetence",
+        "Commenting on someone overreacting or missing the point",
+        "Poking fun at a trivial problem treated as a big deal"
+      ]
+    }
+  },
+  {
+    "id": "say-what-one-more-time",
+    "filename": "say-what-one-more-time.jpg",
+    "displayName": "Say What? One More Time",
+    "description": "Close-up meme frame of a person with an exaggerated, shocked/yelling expression as if shouting a denial or demand to repeat something—the visual cue for disbelief or irritation when someone says something again.",
+    "tags": [
+      "disbelief",
+      "repeat annoyance",
+      "mocking repeat",
+      "overreact shock",
+      "yelling denial",
+      "frustrated reaction",
+      "irritated shout"
+    ],
+    "situations": [
+      "when someone repeats a question or statement",
+      "when a user revisits the same mistake multiple times",
+      "when a friend tells the same joke over and over",
+      "when browsing loops back to the same page repeatedly",
+      "when redundant notifications keep popping up",
+      "when a conversation circles back to a stale point"
+    ],
+    "emotions": [
+      "shock",
+      "annoyance",
+      "exasperation",
+      "irritation"
+    ],
+    "reactionType": "disbelief_shout",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.1,
+      "chronicallyonline": 0.8,
+      "society_aunty": 0.6,
+      "detective": 0.3,
+      "linkedin_sigma": 0.2,
+      "maincharacter": 0.7
+    },
+    "intensity": 0.85,
+    "versatility": 0.7,
+    "negativeTags": [
+      "celebratory achievement",
+      "quiet reflection",
+      "supportive encouragement",
+      "formal presentation",
+      "serious mourning",
+      "emotional support"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 11,
+      "originalName": "say-what-one-more-time",
+      "originalDescription": "Close-up meme frame of a person with an exaggerated, shocked/yelling expression as if shouting a denial or demand to repeat something—the visual cue for disbelief or irritation when someone says something again.",
+      "originalUsecases": [
+        "Expressing disbelief when someone repeats themselves",
+        "Mocking a question or statement that is asked again",
+        "Reacting to a stubborn or ridiculous remark",
+        "Escalating frustration in a conversation",
+        "Over-the-top, accusatory response to being asked to repeat"
+      ]
+    }
+  },
+  {
+    "id": "uncle-dolan",
+    "filename": "uncle-dolan.jpg",
+    "displayName": "Uncle Dolan",
+    "description": "A crudely drawn yellow cartoon character known as Uncle Dolan, with a simple face (black round eyes, small mouth) and a goofy/smudged expression, rendered in a low‑resolution, amateur meme style; the vibe is quirky, slightly menacing or absurd.",
+    "tags": [
+      "cringe",
+      "awkward",
+      "smug grin",
+      "silly humor",
+      "absurd",
+      "sarcastic",
+      "deadpan",
+      "family uncle vibe",
+      "embarrassing moment",
+      "nonchalant reply"
+    ],
+    "situations": [
+      "reacting to a cringy or awkward mistake",
+      "replying to an obviously silly comment",
+      "sarcastic response to a minor failure",
+      "deadpan reaction to absurd content",
+      "light‑hearted family or uncle‑style joke"
+    ],
+    "emotions": [
+      "smug",
+      "sarcastic",
+      "deadpan",
+      "amused"
+    ],
+    "reactionType": "smug_reply",
+    "characters": {
+      "certified_hater": 0.8,
+      "glazer3000": 0.6,
+      "chronicallyonline": 0.9,
+      "society_aunty": 0.5,
+      "detective": 0.3,
+      "linkedin_sigma": 0.2,
+      "maincharacter": 0.7
+    },
+    "intensity": 0.6,
+    "versatility": 0.8,
+    "negativeTags": [
+      "serious tragedy",
+      "formal business announcement",
+      "political debate",
+      "emotional heartbreak",
+      "major achievement celebration"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 143,
+      "originalName": "uncle-dolan",
+      "originalDescription": "A crudely drawn yellow cartoon character known as Uncle Dolan, with a simple face (black round eyes, small mouth) and a goofy/smudged expression, rendered in a low‑resolution, amateur meme style; the vibe is quirky, slightly menacing or absurd.",
+      "originalUsecases": [
+        "Reaction to a cringy or awkward moment with a smug grin",
+        "Commenting on something obviously silly or not worth a serious reply",
+        "Silly/absurd humor about family or casual 'uncle' vibes",
+        "Sarcastic response to a failure or embarrassing moment",
+        "Nonchalant or deadpan reply in internet culture scenarios"
+      ]
+    }
+  },
+  {
+    "id": "picard-facepalm",
+    "filename": "picard-facepalm.jpg",
+    "displayName": "Picard Facepalm",
+    "description": "Still of Captain Jean-Luc Picard (Patrick Stewart) with his hand pressed to his face in a classic facepalm, conveying exasperation or disbelief.",
+    "tags": [
+      "facepalm",
+      "exasperation",
+      "disbelief",
+      "cringe",
+      "mistake",
+      "failed logic",
+      "embarrassing",
+      "rambling explanation",
+      "obvious error",
+      "overlong rant"
+    ],
+    "situations": [
+      "repeating the same mistake",
+      "reading a dumb or repetitive claim",
+      "encountering an overlong, rambling explanation",
+      "witnessing an embarrassing user error",
+      "seeing an obvious logical flaw"
+    ],
+    "emotions": [
+      "frustration",
+      "disbelief",
+      "exasperation",
+      "embarrassment"
+    ],
+    "reactionType": "facepalm",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.1,
+      "chronicallyonline": 0.6,
+      "society_aunty": 0.5,
+      "detective": 0.4,
+      "linkedin_sigma": 0.2,
+      "maincharacter": 0.3
+    },
+    "intensity": 0.8,
+    "versatility": 0.7,
+    "negativeTags": [
+      "tiny achievement",
+      "celebration",
+      "positive milestone",
+      "success",
+      "encouragement"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 155,
+      "originalName": "picard-facepalm",
+      "originalDescription": "Still of Captain Jean-Luc Picard (Patrick Stewart) with his hand pressed to his face in a classic facepalm, conveying exasperation or disbelief.",
+      "originalUsecases": [
+        "Reacting to cringe-worthy statements or decisions",
+        "Expressing disbelief at an obviously dumb or repetitive claim",
+        "Highlighting a failed logic or obvious mistake",
+        "Sarcastic response to overlong, rambling explanations",
+        "Commenting on embarrassing moments or user error"
+      ]
+    }
+  },
+  {
+    "id": "beavis-and-butthead",
+    "filename": "beavis-and-butthead.jpg",
+    "displayName": "Beavis and Butt-Head Mockery",
+    "description": "Beavis and Butt-Head meme template: a simplified 1990s cartoon duo known for dumb, smug expressions and juvenile humor; commonly used to convey mockery, cringe, or a taunting reaction.",
+    "tags": [
+      "mockery",
+      "cringe",
+      "juvenile humor",
+      "1990s cartoon",
+      "beavis butt-head",
+      "sarcastic",
+      "taunting",
+      "retro meme",
+      "low-effort takedown",
+      "internet culture"
+    ],
+    "situations": [
+      "reacting to cringe-worthy statements or obvious mistakes",
+      "mocking overconfident but foolish remarks",
+      "commenting on chaotic or silly situations",
+      "making a nostalgic 1990s cartoon reference",
+      "taking down trends or memes with a juvenile vibe"
+    ],
+    "emotions": [
+      "sarcasm",
+      "annoyance",
+      "disbelief",
+      "amusement"
+    ],
+    "reactionType": "mockery",
+    "characters": {
+      "certified_hater": 1,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.9,
+      "society_aunty": 0.5,
+      "detective": 0.3,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.7
+    },
+    "intensity": 0.8,
+    "versatility": 0.85,
+    "negativeTags": [
+      "professional presentation",
+      "serious news",
+      "solemn events",
+      "condolences",
+      "formal announcements"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 283,
+      "originalName": "beavis-and-butthead",
+      "originalDescription": "Beavis and Butt-Head meme template: a simplified 1990s cartoon duo known for dumb, smug expressions and juvenile humor; commonly used to convey mockery, cringe, or a taunting reaction.",
+      "originalUsecases": [
+        "React to cringe-worthy statements or obvious mistakes",
+        "Mock someone who sounds overly confident but is foolish",
+        "Comment on chaotic or silly situations with a juvenile vibe",
+        "Nostalgic reference to 1990s cartoons",
+        "Humorous, low-effort takedowns of trends or memes"
+      ]
+    }
+  },
+  {
+    "id": "mr-bean",
+    "filename": "mr-bean.jpg",
+    "displayName": "Mr. Bean",
+    "description": "Mr. Bean meme template featuring the iconic Rowan Atkinson character known for deadpan facial expressions and exaggerated physical comedy; used for reactions that are puzzled, smug, or comically awkward in everyday situations.",
+    "tags": [
+      "confusion",
+      "disbelief",
+      "cringe",
+      "awkward",
+      "smug",
+      "puzzled",
+      "deadpan",
+      "comic",
+      "embarrassing",
+      "childish behavior"
+    ],
+    "situations": [
+      "when someone repeats the same simple mistake",
+      "after an illogical or cringe‑worthy decision",
+      "during an awkward attempt to solve a trivial task",
+      "witnessing childish or unconventional behavior",
+      "feeling smug about a tiny achievement",
+      "when a simple action turns unexpectedly chaotic"
+    ],
+    "emotions": [
+      "confused",
+      "smug",
+      "awkward",
+      "puzzled",
+      "embarrassed"
+    ],
+    "reactionType": "puzzled_smug",
+    "characters": {
+      "certified_hater": 0.7,
+      "glazer3000": 0.3,
+      "chronicallyonline": 0.9,
+      "society_aunty": 0.5,
+      "detective": 0.2,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.8
+    },
+    "intensity": 0.6,
+    "versatility": 0.85,
+    "negativeTags": [
+      "serious tragedy",
+      "formal announcement",
+      "political scandal",
+      "violent content",
+      "deep emotional grief"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 4,
+      "originalName": "mr-bean",
+      "originalDescription": "Mr. Bean meme template featuring the iconic Rowan Atkinson character known for deadpan facial expressions and exaggerated physical comedy; used for reactions that are puzzled, smug, or comically awkward in everyday situations.",
+      "originalUsecases": [
+        "Express confusion or disbelief at someone’s actions",
+        " react to cringe-worthy or illogical situations",
+        " convey a smug, self-satisfied moment without words",
+        " illustrate awkward attempts to solve a simple task",
+        " poke fun at childish or unconventional behavior"
+      ]
+    }
+  },
+  {
+    "id": "san-juan-cholo",
+    "filename": "san-juan-cholo.jpg",
+    "displayName": "San Juan Cholo",
+    "description": "A meme template featuring a stoic Latino man in a 'cholo' archetype, used to project toughness, swagger, or blunt-edged humor. The image conveys a no-nonsense, street‑smart vibe that invites smug or sarcastic reactions.",
+    "tags": [
+      "swagger",
+      "toughness",
+      "sarcastic reality check",
+      "brag call‑out",
+      "flaky behavior ribbing",
+      "streetwise humor",
+      "loyalty test",
+      "challenge response"
+    ],
+    "situations": [
+      "someone boasts about a minor achievement",
+      "user repeats the same mistake and makes an excuse",
+      "a challenge or problem is presented",
+      "friend acts overly tough or impressive",
+      "discussion about loyalty or street credibility",
+      "flaky or last‑minute plan is announced"
+    ],
+    "emotions": [
+      "sarcastic",
+      "smug",
+      "dismissive",
+      "deadpan"
+    ],
+    "reactionType": "sarcastic_rebuke",
+    "characters": {
+      "certified_hater": 1,
+      "glazer3000": 0.4,
+      "chronicallyonline": 0.8,
+      "society_aunty": 0.5,
+      "detective": 0.3,
+      "linkedin_sigma": 0.2,
+      "maincharacter": 0.7
+    },
+    "intensity": 0.8,
+    "versatility": 0.75,
+    "negativeTags": [
+      "serious mourning",
+      "genuine celebration of success",
+      "romantic confession",
+      "professional endorsement",
+      "emotional support"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 275,
+      "originalName": "san-juan-cholo",
+      "originalDescription": "A meme template featuring a stoic Latino man in a 'cholo' archetype, used to project toughness, swagger, or blunt-edged humor. The image conveys a no-nonsense, street-smart vibe that invites smug or sarcastic reactions.",
+      "originalUsecases": [
+        "React to bold or braggy statements with a reality-check or sarcasm",
+        "Call out someone for flaky behavior or excuses",
+        "Convey readiness to handle a challenge or problem",
+        "Rib someone for trying to act tough or impressive",
+        "Comment on loyalty, streetwise bravado, or straight-faced humor"
+      ]
+    }
+  },
+  {
+    "id": "bad-advice-cat",
+    "filename": "bad-advice-cat.jpg",
+    "displayName": "Bad Advice Cat",
+    "description": "A smug, deadpan-looking cat (Bad Advice Cat) used in captions to dispense obviously bad or misguided advice; the expression conveys sarcastic mischief.",
+    "tags": [
+      "bad advice",
+      "sarcastic cat",
+      "misguided tips",
+      "mocking plan",
+      "snarky advice",
+      "deadpan meme",
+      "ironic cat"
+    ],
+    "situations": [
+      "when someone repeats the same mistake",
+      "after giving terrible suggestions",
+      "responding to naive or overly confident plans",
+      "mocking over‑enthusiastic ideas",
+      "reacting to a failed attempt",
+      "satirizing unsolicited advice"
+    ],
+    "emotions": [
+      "sarcastic",
+      "mischievous",
+      "bemused",
+      "eye_roll"
+    ],
+    "reactionType": "snarky_advice",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.8,
+      "society_aunty": 0.5,
+      "detective": 0.3,
+      "linkedin_sigma": 0.2,
+      "maincharacter": 0.6
+    },
+    "intensity": 0.7,
+    "versatility": 0.8,
+    "negativeTags": [
+      "serious emergencies",
+      "condolences",
+      "legal advice",
+      "professional apologies",
+      "celebrations of loss"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 68,
+      "originalName": "bad-advice-cat",
+      "originalDescription": "A smug, deadpan-looking cat (Bad Advice Cat) used in captions to dispense obviously bad or misguided advice; the expression conveys sarcastic mischief.",
+      "originalUsecases": [
+        "Mocking a ridiculous plan by offering obviously bad tips",
+        "Sarcastic responses to common situations (work, school, relationships) with harmful or silly advice",
+        "Commenting on failed attempts by implying the advice made things worse",
+        "Satirizing unsolicited advice with a mischievous cat persona"
+      ]
+    }
+  },
+  {
+    "id": "nerdy-kid-lolz",
+    "filename": "nerdy-kid-lolz.jpg",
+    "displayName": "Nerdy Kid Lolz",
+    "description": "Meme template featuring a nerdy-looking kid with thick glasses and a goofy, smug grin; conveys a 'nerdy' persona and is often captioned with lighthearted, self-deprecating humor.",
+    "tags": [
+      "nerd brag",
+      "self-deprecating nerd",
+      "cringe tech moment",
+      "overconfident geek",
+      "awkward social moment",
+      "geek humor",
+      "schoolwork joke",
+      "goofy grin meme"
+    ],
+    "situations": [
+      "someone bragging about trivial knowledge",
+      "self-deprecating about nerdy interests or schoolwork",
+      "awkward social moment involving tech or math",
+      "mocking an overconfident nerdy claim",
+      "reacting to a failed or cringey tech joke"
+    ],
+    "emotions": [
+      "smug",
+      "embarrassed",
+      "amused"
+    ],
+    "reactionType": "mocking",
+    "characters": {
+      "certified_hater": 0.4,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.8,
+      "society_aunty": 0.5,
+      "detective": 0.1,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.6
+    },
+    "intensity": 0.6,
+    "versatility": 0.7,
+    "negativeTags": [
+      "serious business",
+      "formal presentation",
+      "high stakes failure",
+      "emotional trauma",
+      "political debate"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 192,
+      "originalName": "nerdy-kid-lolz",
+      "originalDescription": "Meme template featuring a nerdy-looking kid with thick glasses and a goofy, smug grin; conveys a 'nerdy' persona and is often captioned with lighthearted, self-deprecating humor (e.g., 'lolz').",
+      "originalUsecases": [
+        "React to someone bragging about trivial knowledge",
+        "Self-deprecating joke about being into nerdy stuff or schoolwork",
+        "Comment on awkward social moments or cringe-worthy tech/math takes",
+        "Punch up or gently mock overconfident or nerdy assertions"
+      ]
+    }
+  },
+  {
+    "id": "you-dont-say-meme",
+    "filename": "you-dont-say-meme.jpg",
+    "displayName": "You Don't Say",
+    "description": "A classic reaction image macro known as 'You don't say' featuring a straight‑faced, slightly smug expression used to sarcastically acknowledge an obvious statement.",
+    "tags": [
+      "obvious statement",
+      "sarcastic reply",
+      "mock surprise",
+      "redundant comment",
+      "trivial fact",
+      "obvious truth",
+      "dry humor"
+    ],
+    "situations": [
+      "when someone states the obvious",
+      "responding to a redundant observation",
+      "mock‑agreeing with a trivial point",
+      "sarcastically confirming an obvious fact",
+      "reacting to a needless explanation"
+    ],
+    "emotions": [
+      "sarcastic",
+      "dry",
+      "mock_surprise"
+    ],
+    "reactionType": "sarcastic_acknowledgment",
+    "characters": {
+      "certified_hater": 0.8,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.9,
+      "society_aunty": 0.3,
+      "detective": 0.1,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.4
+    },
+    "intensity": 0.6,
+    "versatility": 0.9,
+    "negativeTags": [
+      "genuine excitement",
+      "deep sympathy",
+      "anger",
+      "serious news",
+      "emotional support"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 258,
+      "originalName": "you-dont-say-meme",
+      "originalDescription": "A classic reaction image macro known as 'You don't say' featuring a straight-faced, slightly smug expression used to sarcastically acknowledge an obvious statement.",
+      "originalUsecases": [
+        "Sarcasticly confirming something that's obviously true",
+        "Responding to an obvious observation with mock surprise",
+        "Commenting on redundant or stated facts",
+        "Mockingly agreeing with a trivial point"
+      ]
+    }
+  },
+  {
+    "id": "romneymakescom",
+    "filename": "romneymakescom.jpg",
+    "displayName": "Romney Makes Com",
+    "description": "A meme featuring a shocked, blank stare expression commonly used to react to awkward, cringey, or miscommunicated statements.",
+    "tags": [
+      "awkward",
+      "cringe",
+      "shocked face",
+      "blank stare",
+      "facepalm",
+      "miscommunication",
+      "political mishap",
+      "overdone expression",
+      "embarrassing moment",
+      "misinterpreted quote"
+    ],
+    "situations": [
+      "repeating the same mistake",
+      "chaotic browsing session",
+      "tiny achievement that feels anticlimactic",
+      "public figure slip‑up",
+      "awkward comment in chat",
+      "misinterpreted statement",
+      "cringey social media post"
+    ],
+    "emotions": [
+      "cringe",
+      "shocked",
+      "embarrassed",
+      "facepalm"
+    ],
+    "reactionType": "shocked_face",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.1,
+      "chronicallyonline": 0.8,
+      "society_aunty": 0.5,
+      "detective": 0.2,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.6
+    },
+    "intensity": 0.7,
+    "versatility": 0.8,
+    "negativeTags": [
+      "celebration",
+      "victory",
+      "serious news",
+      "sadness",
+      "love",
+      "supportive"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 261,
+      "originalName": "romneymakescom",
+      "originalDescription": "I can’t view the contents of the provided image object. Please either upload the image file (or share a link) or provide a brief textual description of the meme (which character, their expression, any text, colors, etc.). Once I have that, I’ll generate the JSON in the requested format.",
+      "originalUsecases": [
+        "Reaction to awkward or cringey statements",
+        "Commentary on political or public figure mishaps",
+        "Laughing at overdone facial expressions or shocked/blank stares",
+        "Mitting memes about miscommunication or misinterpreted quotes"
+      ]
+    }
+  },
+  {
+    "id": "justin-bieber",
+    "filename": "justin-bieber.jpg",
+    "displayName": "Justin Bieber Reaction Meme",
+    "description": "A meme template featuring Justin Bieber’s close-up portrait, used as a recognizable reaction image in memes.",
+    "tags": [
+      "cringe reaction",
+      "celebrity gossip sarcasm",
+      "overreaction to minor news",
+      "unimpressed deadpan response",
+      "awkward moment meme",
+      "pop culture disbelief",
+      "facepalm meme"
+    ],
+    "situations": [
+      "someone makes a cringy statement",
+      "celebrity gossip thread",
+      "overreacting to a tiny achievement",
+      "unimpressive announcement",
+      "awkward comment in chat"
+    ],
+    "emotions": [
+      "disbelief",
+      "sarcasm",
+      "unimpressed"
+    ],
+    "reactionType": "deadpan",
+    "characters": {
+      "certified_hater": 0.8,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.9,
+      "society_aunty": 0.5,
+      "detective": 0.1,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.6
+    },
+    "intensity": 0.7,
+    "versatility": 0.8,
+    "negativeTags": [
+      "serious tragedy",
+      "formal business presentation",
+      "emotional support situation",
+      "sympathetic condolence"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 284,
+      "originalName": "justin-bieber",
+      "originalDescription": "A meme template featuring Justin Bieber’s close-up portrait, used as a recognizable reaction image in memes.",
+      "originalUsecases": [
+        "React to cringy or outrageous statements in comments or posts.",
+        "Comment on celebrity gossip or pop-culture news with sarcasm or disbelief.",
+        "Caption situations where someone is overreacting or something is unimpressive.",
+        "Use as a deadpan or unimpressed reaction to surprising or awkward moments."
+      ]
+    }
+  },
+  {
+    "id": "captain-picard",
+    "filename": "captain-picard.jpg",
+    "displayName": "Captain Picard Facepalm",
+    "description": "Captain Jean-Luc Picard from Star Trek: The Next Generation in a classic facepalm pose — red Starfleet command uniform, hand on forehead/face, exasperated expression.",
+    "tags": [
+      "facepalm",
+      "obvious mistake",
+      "cringe",
+      "bureaucracy",
+      "overconfident",
+      "star trek",
+      "picard",
+      "exasperated",
+      "failure",
+      "inefficiency"
+    ],
+    "situations": [
+      "when someone repeats a silly mistake",
+      "reacting to a bureaucratic blunder",
+      "seeing an overconfident claim that fails",
+      "responding to a cringe‑worthy statement",
+      "after a chaotic browsing session"
+    ],
+    "emotions": [
+      "exasperation",
+      "disbelief",
+      "frustration"
+    ],
+    "reactionType": "facepalm",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.8,
+      "society_aunty": 0.6,
+      "detective": 0.5,
+      "linkedin_sigma": 0.3,
+      "maincharacter": 0.7
+    },
+    "intensity": 0.7,
+    "versatility": 0.75,
+    "negativeTags": [
+      "celebration",
+      "small achievement",
+      "happy news",
+      "positive milestone",
+      "victory",
+      "supportive message"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 286,
+      "originalName": "captain-picard",
+      "originalDescription": "Captain Jean-Luc Picard from Star Trek: The Next Generation in a classic facepalm pose — red Starfleet command uniform, hand on forehead/face, exasperated expression.",
+      "originalUsecases": [
+        "Reacting to an obvious mistake or stupid idea",
+        "Expressing disbelief at cringe-worthy statements",
+        "Commenting on bureaucracy or inefficiency",
+        "Mocking overconfident or self-serious takes"
+      ]
+    }
+  },
+  {
+    "id": "kill-yourself-guy-blank",
+    "filename": "kill-yourself-guy-blank.jpg",
+    "displayName": "Kill‑Yourself Guy Blank",
+    "description": "A reaction meme featuring a man with a deadpan/blank expression (the generic 'kill‑yourself‑guy' template). The stoic face paired with bold captions creates a harsh, dismissive, or darkly humorous vibe.",
+    "tags": [
+      "mocking",
+      "dismissive",
+      "dark humor",
+      "sarcastic",
+      "deadpan",
+      "cringe response",
+      "harsh rebuttal",
+      "troll reply",
+      "bland reaction",
+      "false claim rebuttal"
+    ],
+    "situations": [
+      "when someone makes an obviously false or cringe‑worthy claim",
+      "after a repeated mistake or same error is made again",
+      "in response to a tiny or trivial achievement",
+      "when faced with chaotic or erratic browsing behavior",
+      "as a reaction to lazy procrastination or excessive screen time",
+      "when a user boasts a minor win that isn’t impressive"
+    ],
+    "emotions": [
+      "disdain",
+      "sarcasm",
+      "dismissal",
+      "dark humor",
+      "annoyance"
+    ],
+    "reactionType": "mocking_dismissal",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.1,
+      "chronicallyonline": 0.7,
+      "society_aunty": 0.4,
+      "detective": 0.2,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.5
+    },
+    "intensity": 0.85,
+    "versatility": 0.7,
+    "negativeTags": [
+      "celebrations",
+      "serious tragedies",
+      "supportive encouragement",
+      "condolences",
+      "formal announcements",
+      "professional praise"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 141,
+      "originalName": "kill-yourself-guy-blank",
+      "originalDescription": "A reaction meme featuring a man with a deadpan/blank expression (the generic 'kill-yourself-guy' template). The stoic face paired with bold captions creates a harsh, dismissive, or darkly humorous vibe.",
+      "originalUsecases": [
+        "Respond to obviously false or cringe-worthy claims with a sharp, mocking burn",
+        "Express disbelief or blunt dismissal in a humorous way",
+        "Capitalize on the template for dark sarcasm or trolling-style replies"
+      ]
+    }
+  },
+  {
+    "id": "donald-trump",
+    "filename": "donald-trump.jpg",
+    "displayName": "Donald Trump Smug Face Meme",
+    "description": "Meme template featuring Donald Trump with orange-tinted skin, distinctive hair, suit and red tie, displaying a smug, confrontational, or incredulous expression, often used for mocking bold or dubious claims.",
+    "tags": [
+      "mocking",
+      "sarcasm",
+      "political satire",
+      "smug reaction",
+      "double standards",
+      "bold claim",
+      "incredulous",
+      "confrontational",
+      "facepalm",
+      "dramatic"
+    ],
+    "situations": [
+      "when someone repeats a mistake",
+      "after a dubious claim",
+      "responding to hypocrisy",
+      "reacting to an unexpected tiny achievement",
+      "commenting on political spin",
+      "after a bold but unfounded statement"
+    ],
+    "emotions": [
+      "smug",
+      "sarcastic",
+      "incredulous",
+      "mocking"
+    ],
+    "reactionType": "smug_sarcastic",
+    "characters": {
+      "certified_hater": 0.7,
+      "glazer3000": 0.5,
+      "chronicallyonline": 0.8,
+      "society_aunty": 0.6,
+      "detective": 0.4,
+      "linkedin_sigma": 0.3,
+      "maincharacter": 0.9
+    },
+    "intensity": 0.75,
+    "versatility": 0.85,
+    "negativeTags": [
+      "serious mourning",
+      "sympathetic support",
+      "formal business announcement",
+      "sadness",
+      "empathetic condolences"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 20,
+      "originalName": "donald-trump",
+      "originalDescription": "Meme template featuring Donald Trump with recognizable features (orange-tinted skin, distinctive hair, suit and red tie). The expression is typically smug, confrontational, or incredulous, often with a pointing gesture or bold facial reaction.",
+      "originalUsecases": [
+        "Mocking someone for a bold or dubious claim",
+        "Expressing smug confidence or sarcasm about a situation",
+        "Roasting hypocrisy or double standards",
+        "Commentary on political statements or media spin",
+        "Satirical take on public figures or dramatic reactions"
+      ]
+    }
+  },
+  {
+    "id": "mckayla-maroney-not-impressed",
+    "filename": "mckayla-maroney-not-impressed.jpg",
+    "displayName": "McKayla Maroney Not Impressed",
+    "description": "Close-up of McKayla Maroney with a deadpan, unimpressed expression. Defining features include a pursed mouth and narrowed, skeptical eyes, signaling a classic 'not impressed' reaction.",
+    "tags": [
+      "not impressed",
+      "deadpan",
+      "underwhelmed",
+      "sarcasm",
+      "disappointment",
+      "skeptical",
+      "anti hype",
+      "dry humor",
+      "meh",
+      "low expectations"
+    ],
+    "situations": [
+      "when someone boasts about a minor achievement",
+      "after an overhyped product fails to deliver",
+      "reacting to exaggerated claims or bragging",
+      "seeing underwhelming results from a promised big reveal",
+      "responding to hype that doesn't meet expectations"
+    ],
+    "emotions": [
+      "disappointment",
+      "skepticism",
+      "sarcasm"
+    ],
+    "reactionType": "not_impressed",
+    "characters": {
+      "certified_hater": 1,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.8,
+      "society_aunty": 0.5,
+      "detective": 0.3,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.4
+    },
+    "intensity": 0.6,
+    "versatility": 0.7,
+    "negativeTags": [
+      "celebration",
+      "victory",
+      "excited",
+      "positive reinforcement",
+      "success"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 32,
+      "originalName": "mckayla-maroney-not-impressed",
+      "originalDescription": "Close-up of McKayla Maroney with a deadpan, unimpressed expression. Defining features include a pursed mouth and narrowed, skeptical eyes, signaling a classic 'not impressed' reaction.",
+      "originalUsecases": [
+        "Express disappointment or underwhelm when something is hype or promised to be impressive",
+        "React to over-the-top praise or bragging with sarcasm",
+        "Show disbelief at grand claims or attempts to impress",
+        "Reply to someone delivering underwhelming results",
+        "Comment on memes or trends that fail to meet expectations"
+      ]
+    }
+  },
+  {
+    "id": "buzz-lightyear-meme-fixd",
+    "filename": "buzz-lightyear-meme-fixd.jpg",
+    "displayName": "Buzz Lightyear Space Ranger Confidence Meme",
+    "description": "Buzz Lightyear from Toy Story in his Space Ranger suit, rendered in bright 3D animation with a smug/serious expression. Used to imply confidence or mock over-the-top claims.",
+    "tags": [
+      "overconfident",
+      "false claim",
+      "heroic flair",
+      "mock confidence",
+      "grandiose plan",
+      "self‑assured",
+      "sarcastic triumph",
+      "dramatic brag"
+    ],
+    "situations": [
+      "reacting to an obviously grand or false claim",
+      "celebrating a tiny win with heroic flair",
+      "poking fun at overreaching plans or solutions",
+      "mocking overly confident takes in discussions",
+      "showing fake confidence about an outcome",
+      "responding to a self‑assured but misguided reasoning"
+    ],
+    "emotions": [
+      "mocking",
+      "confident",
+      "sarcastic",
+      "triumphant",
+      "flippant"
+    ],
+    "reactionType": "mock_confident",
+    "characters": {
+      "certified_hater": 0.8,
+      "glazer3000": 0.3,
+      "chronicallyonline": 0.9,
+      "society_aunty": 0.6,
+      "detective": 0.4,
+      "linkedin_sigma": 0.5,
+      "maincharacter": 0.7
+    },
+    "intensity": 0.7,
+    "versatility": 0.9,
+    "negativeTags": [
+      "serious_failure",
+      "sympathy",
+      "sadness",
+      "genuine disappointment",
+      "sincere apology",
+      "tragic loss"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 38,
+      "originalName": "buzz-lightyear-meme-fixd",
+      "originalDescription": "Buzz Lightyear from Toy Story in his Space Ranger suit, rendered in bright 3D animation, usually shown with a smug/serious expression. This template is used as a reaction meme to imply confidence or to mock over-the-top claims.",
+      "originalUsecases": [
+        "React to an obviously grand or false claim",
+        "Show fake confidence about an outcome",
+        "Poke fun at overreaching plans or solutions",
+        "Satirize someone’s self-assured but misguided reasoning",
+        "Celebrate a small win with heroic flair",
+        "Mock overly confident takes in discussions"
+      ]
+    }
+  },
+  {
+    "id": "gordo-granudo",
+    "filename": "gordo-granudo.jpg",
+    "displayName": "gordo-granudo",
+    "description": "A stout, unimpressed-looking meme character known as 'gordo granudo': a chunky figure with a deadpan, straight-faced expression used for sarcastic or resigned captions.",
+    "tags": [
+      "mild irritation",
+      "sarcastic resignation",
+      "overreaction mock",
+      "self-deprecating laziness",
+      "bureaucracy sarcasm",
+      "failed plans",
+      "tedious task",
+      "dry humor",
+      "gordo granudo",
+      "chunky deadpan"
+    ],
+    "situations": [
+      "when a simple task becomes unnecessarily complicated",
+      "after repeated failed attempts at a small goal",
+      "while dealing with bureaucratic red tape",
+      "when personal laziness leads to missed deadlines",
+      "during a dull meeting that drags on",
+      "when an overhyped feature underdelivers"
+    ],
+    "emotions": [
+      "irritation",
+      "resignation",
+      "sarcasm",
+      "bemusement"
+    ],
+    "reactionType": "dry_sarcasm",
+    "characters": {
+      "certified_hater": 0.8,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.6,
+      "society_aunty": 0.5,
+      "detective": 0.1,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.2
+    },
+    "intensity": 0.4,
+    "versatility": 0.8,
+    "negativeTags": [
+      "celebration",
+      "high excitement",
+      "victory",
+      "urgent alert",
+      "dramatic shock"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 48,
+      "originalName": "gordo-granudo",
+      "originalDescription": "A stout, unimpressed-looking meme character known as 'gordo granudo': a chunky figure with a deadpan, straight-faced expression used for sarcastic or resigned captions.",
+      "originalUsecases": [
+        "Express mild irritation at everyday annoyances",
+        "Mock overreactions or unnecessary complexity",
+        "Self-deprecating humor about laziness or indulgence",
+        "Reacting to failed plans or dull tasks with sardonic understatement",
+        "Commenting on bureaucracy or tedious situations with a resigned tone"
+      ]
+    }
+  },
+  {
+    "id": "confused-bill-cosby",
+    "filename": "confused-bill-cosby.jpg",
+    "displayName": "Confused Bill Cosby",
+    "description": "The 'Confused Bill Cosby' meme features Bill Cosby with a puzzled, squinting expression, mouth slightly open, and raised eyebrows, conveying a reaction of confusion or disbelief.",
+    "tags": [
+      "confusion",
+      "bewilderment",
+      "puzzled reaction",
+      "misunderstanding",
+      "doesn't make sense",
+      "baffling situation",
+      "can't follow"
+    ],
+    "situations": [
+      "reading a convoluted instruction",
+      "encountering a contradictory statement",
+      "seeing a buggy or unintuitive UI",
+      "misinterpreting a joke or meme",
+      "facing an overly complex policy"
+    ],
+    "emotions": [
+      "confusion",
+      "bewilderment",
+      "disbelief"
+    ],
+    "reactionType": "confusion",
+    "characters": {
+      "certified_hater": 0.6,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.7,
+      "society_aunty": 0.5,
+      "detective": 0.4,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.3
+    },
+    "intensity": 0.5,
+    "versatility": 0.8,
+    "negativeTags": [
+      "celebration",
+      "victory",
+      "approval",
+      "anger",
+      "success"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 52,
+      "originalName": "confused-bill-cosby",
+      "originalDescription": "The 'Confused Bill Cosby' meme features Bill Cosby with a puzzled, squinting expression, mouth slightly open, and raised eyebrows, conveying a reaction of confusion or disbelief.",
+      "originalUsecases": [
+        "Express confusion about a confusing instruction or claim",
+        "React to something that makes no sense or is overly complicated",
+        "Comment on misread or misunderstood information",
+        "Show disbelief at an obviously flawed statement",
+        "Poke fun at trying to make sense of a baffling situation"
+      ]
+    }
+  },
+  {
+    "id": "rich-men-laughing",
+    "filename": "rich-men-laughing.jpg",
+    "displayName": "rich-men-laughing",
+    "description": "Stock photo of two wealthy men in suits laughing with broad smiles, conveying smug, dismissive amusement often labeled as \"rich men laughing.\"",
+    "tags": [
+      "rich men laughing",
+      "wealthy smug",
+      "elite mockery",
+      "snobbery",
+      "class divide",
+      "corporate greed",
+      "sarcastic triumph",
+      "rich dismissive"
+    ],
+    "situations": [
+      "mocking a minor complaint by implying the wealthy would laugh",
+      "reacting to a plan that benefits the rich or reinforces wealth inequality",
+      "sarcastically celebrating a perceived win for corporate greed",
+      "showing smug superiority when money makes problems seem trivial",
+      "dismissive response to an argument where the richer side has the upper hand"
+    ],
+    "emotions": [
+      "smug",
+      "dismissive",
+      "sarcastic",
+      "amused"
+    ],
+    "reactionType": "mocking",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.1,
+      "chronicallyonline": 0.6,
+      "society_aunty": 0.5,
+      "detective": 0.2,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.3
+    },
+    "intensity": 0.8,
+    "versatility": 0.6,
+    "negativeTags": [
+      "sympathetic",
+      "serious tragedy",
+      "genuine achievement",
+      "humble success",
+      "empathetic support"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 119,
+      "originalName": "rich-men-laughing",
+      "originalDescription": "Stock photo of two wealthy men in suits laughing with broad smiles, conveying smug, dismissive amusement often labeled as \"rich men laughing.\"",
+      "originalUsecases": [
+        "Mocking someone’s minor complaint by implying the wealthy would laugh at it",
+        "Reacting to a plan or outcome that benefits the rich or wealth inequality",
+        "Sarcastically celebrating a perceived win by the rich or by corporate greed",
+        "Smug response to an argument where the wealthier side appears to have the upper hand",
+        "Commenting on when money or status makes problems seem trivial to the rich"
+      ]
+    }
+  },
+  {
+    "id": "tobey-maguire",
+    "filename": "tobey-maguire.jpg",
+    "displayName": "Tobey Maguire Disbelief Face",
+    "description": "A Tobey Maguire reaction-face meme template: close-up of Tobey Maguire with a surprised/awkward expression, used as a reaction image to convey disbelief or cringe.",
+    "tags": [
+      "disbelief",
+      "cringe",
+      "awkward",
+      "surprise",
+      "hypocrisy",
+      "plot twist",
+      "self-deprecating",
+      "facepalm",
+      "unexpected",
+      "meme reaction"
+    ],
+    "situations": [
+      "when someone admits an embarrassing secret",
+      "when a claim contradicts an earlier statement",
+      "after realizing two memes are the same",
+      "reacting to a plot twist in a story",
+      "after a small personal failure"
+    ],
+    "emotions": [
+      "cringe",
+      "surprise",
+      "awkwardness",
+      "embarrassment"
+    ],
+    "reactionType": "disbelief",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.8,
+      "society_aunty": 0.6,
+      "detective": 0.3,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.7
+    },
+    "intensity": 0.7,
+    "versatility": 0.8,
+    "negativeTags": [
+      "celebration",
+      "victory",
+      "positive achievement",
+      "motivational",
+      "happy"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 137,
+      "originalName": "tobey-maguire",
+      "originalDescription": "A Tobey Maguire reaction-face meme template: close-up of Tobey Maguire with a surprised/awkward expression, used as a reaction image to convey disbelief or cringe.",
+      "originalUsecases": [
+        "Express disbelief or cringe at an unexpected fact or confession",
+        "Highlight hypocrisy or contradiction in someone’s argument",
+        "Show awkward realization that two similar things are the same",
+        "React to a surprising plot twist or meme comparison",
+        "Use as a self-deprecating or awkward-react moment"
+      ]
+    }
+  },
+  {
+    "id": "business-cat",
+    "filename": "business-cat.jpg",
+    "displayName": "Business Cat",
+    "description": "A cat dressed in a business suit (blazer and tie) sitting upright with a stern, managerial expression, embodying a corporate, meeting-ready vibe.",
+    "tags": [
+      "business cat",
+      "corporate",
+      "deadpan",
+      "sarcastic",
+      "office humor",
+      "productivity",
+      "meeting",
+      "buzzwords",
+      "management",
+      "workplace"
+    ],
+    "situations": [
+      "replying to a coworker’s excuse for missing a deadline",
+      "commenting on a redundant meeting invitation",
+      "mocking overly formal corporate jargon",
+      "reacting to a slow decision‑making process",
+      "highlighting pointless productivity metrics",
+      "when someone boasts about a minor achievement"
+    ],
+    "emotions": [
+      "sarcastic",
+      "deadpan",
+      "annoyed",
+      "dry"
+    ],
+    "reactionType": "deadpan_comment",
+    "characters": {
+      "certified_hater": 0.7,
+      "glazer3000": 0.4,
+      "chronicallyonline": 0.82,
+      "society_aunty": 0.6,
+      "detective": 0.3,
+      "linkedin_sigma": 0.55,
+      "maincharacter": 0.72
+    },
+    "intensity": 0.6,
+    "versatility": 0.78,
+    "negativeTags": [
+      "celebration",
+      "joyful",
+      "love",
+      "victory",
+      "heartwarming",
+      "supportive"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 157,
+      "originalName": "business-cat",
+      "originalDescription": "A cat dressed in a business suit (blazer and tie) sitting upright with a stern, managerial expression, embodying a corporate, meeting-ready vibe.",
+      "originalUsecases": [
+        "Deadpan reaction to office tasks or meetings",
+        "Joking about productivity, efficiency, or corporate jargon",
+        "Commentary on decisions, approvals, or workplace processes",
+        "Sarcastic replies to coworkers' excuses or delays",
+        "Mocking business language and buzzwords in captions"
+      ]
+    }
+  },
+  {
+    "id": "trollface",
+    "filename": "trollface.jpg",
+    "displayName": "Trollface",
+    "description": "A classic Trollface cartoon: a black-and-white line drawing of a smug, wide grin with squinted eyes and a raised eyebrow, conveying mischievous trolling.",
+    "tags": [
+      "trolling",
+      "prank",
+      "mocking",
+      "sarcastic",
+      "bait",
+      "obvious trick",
+      "internet meme",
+      "smug grin",
+      "provocative",
+      "facepalm"
+    ],
+    "situations": [
+      "when someone falls for a bait-and-switch",
+      "after a user repeats the same obvious mistake",
+      "reacting to a silly trick in a comment thread",
+      "mocking a disproportionate or obvious prank",
+      "responding to a confusing or provocative post"
+    ],
+    "emotions": [
+      "mischief",
+      "sarcasm",
+      "mockery"
+    ],
+    "reactionType": "sarcastic_mock",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.1,
+      "chronicallyonline": 0.8,
+      "society_aunty": 0.4,
+      "detective": 0.2,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.5
+    },
+    "intensity": 0.7,
+    "versatility": 0.8,
+    "negativeTags": [
+      "serious tragedy",
+      "formal business announcement",
+      "sympathy",
+      "genuine achievement celebration",
+      "respectful condolences"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 161,
+      "originalName": "trollface",
+      "originalDescription": "A classic Trollface cartoon: a black-and-white line drawing of a smug, wide grin with squinted eyes and a raised eyebrow, conveying mischievous trolling.",
+      "originalUsecases": [
+        "Reacting to a prank or bait",
+        "Mocking a disproportionate or obvious trick",
+        "Celebrating a successful trolling setup",
+        "Sarcastic response to a confusing or provocative post",
+        "Derailing or provoking humor in a comment thread"
+      ]
+    }
+  },
+  {
+    "id": "the-most-interesting-man-in-the-world",
+    "filename": "the-most-interesting-man-in-the-world.jpg",
+    "displayName": "The Most Interesting Man in the World",
+    "description": "The 'Most Interesting Man in the World' meme: a suave, older man with a gray mustache in a sharp suit, often looking confidently at the camera (sometimes with a beer), conveying exaggerated sophistication and worldly charm.",
+    "tags": [
+      "over the top brag",
+      "suave confidence",
+      "deadpan brag",
+      "classy humor",
+      "legendary comparison",
+      "i don't always",
+      "when i do",
+      "refined taste",
+      "confidence meme",
+      "arrogant swagger"
+    ],
+    "situations": [
+      "boasting about an impressive skill",
+      "mocking a mundane action as extraordinary",
+      "commenting on refined or classy behavior",
+      "celebrating a tiny achievement with flair",
+      "setting up the \"I don't always... but when I do...\" punchline",
+      "comparing someone to a legendary figure humorously",
+      "expressing suave self‑image in a reaction"
+    ],
+    "emotions": [
+      "confident",
+      "smug",
+      "playful",
+      "amused",
+      "arrogant"
+    ],
+    "reactionType": "confident_brag",
+    "characters": {
+      "certified_hater": 0.4,
+      "glazer3000": 0.9,
+      "chronicallyonline": 0.7,
+      "society_aunty": 0.5,
+      "detective": 0.2,
+      "linkedin_sigma": 0.6,
+      "maincharacter": 0.8
+    },
+    "intensity": 0.7,
+    "versatility": 0.85,
+    "negativeTags": [
+      "serious tragedy",
+      "sympathetic loss",
+      "formal apology",
+      "urgent emergency",
+      "political controversy",
+      "technical error"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 240,
+      "originalName": "the-most-interesting-man-in-the-world",
+      "originalDescription": "The 'Most Interesting Man in the World' meme: a suave, older man with a gray mustache in a sharp suit, often looking confidently at the camera (sometimes with a beer), conveying exaggerated sophistication and worldly charm.",
+      "originalUsecases": [
+        "Caption bragging about an impressive or over-the-top skill or trait in a deadpan way",
+        "Commenting on refined tastes or classy behavior",
+        "Mocking mundane actions by presenting them as extraordinary",
+        "Setting up the familiar 'I don't always X, but when I do, I Y' punchline",
+        "Comparing someone to a legendary figure in a humorous way",
+        "Expressing confidence or suave self-image in a reaction"
+      ]
+    }
+  },
+  {
+    "id": "you-mean-to-tell-me-black-kid",
+    "filename": "you-mean-to-tell-me-black-kid.jpg",
+    "displayName": "you-mean-to-tell-me-black-kid",
+    "description": "A reaction meme featuring a young Black boy with a skeptical, incredulous expression (raised eyebrow, narrowed eyes, mouth slightly open) used to convey disbelief with the line “You mean to tell me…”.",
+    "tags": [
+      "disbelief",
+      "sarcastic reaction",
+      "obvious claim",
+      "convoluted explanation",
+      "surprising situation",
+      "frustration",
+      "mock serious",
+      "contradiction",
+      "common sense failure",
+      "you mean to tell me"
+    ],
+    "situations": [
+      "when someone states an obvious fact as if it were new",
+      "after hearing a convoluted or nonsensical explanation",
+      "reacting to a surprising or frustrating mistake that was repeated",
+      "pointing out contradictions in someone's claim",
+      "responding to a claim that lacks common sense"
+    ],
+    "emotions": [
+      "disbelief",
+      "sarcasm",
+      "annoyance",
+      "confusion"
+    ],
+    "reactionType": "disbelief_sarcasm",
+    "characters": {
+      "certified_hater": 0.8,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.9,
+      "society_aunty": 0.5,
+      "detective": 0.1,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.6
+    },
+    "intensity": 0.7,
+    "versatility": 0.8,
+    "negativeTags": [
+      "serious tragedy",
+      "heartfelt moments",
+      "genuine praise",
+      "celebrations",
+      "emotional support",
+      "mourning"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 260,
+      "originalName": "you-mean-to-tell-me-black-kid",
+      "originalDescription": "A reaction meme featuring a young Black boy with a skeptical, incredulous expression (raised eyebrow, narrowed eyes, mouth slightly open) used to convey disbelief with the line “You mean to tell me…”.",
+      "originalUsecases": [
+        "Expressing disbelief at an unlikely or obvious claim",
+        "Sarcastically reacting to a convoluted or nonsensical explanation",
+        "Commenting on a surprising or frustrating situation with a mock-serious tone",
+        "Pointing out contradictions or inconsistencies in what someone said",
+        " reacting to something that should be common sense but isn’t"
+      ]
+    }
+  },
+  {
+    "id": "annoying-gamer-kid",
+    "filename": "annoying-gamer-kid.jpg",
+    "displayName": "Annoying Gamer Kid",
+    "description": "A meme template featuring a young gamer kid wearing a headset, with a smug, taunting grin that embodies the 'annoying gamer' archetype.",
+    "tags": [
+      "gamer brag",
+      "trash talk",
+      "mic spam",
+      "entitlement",
+      "cringe gamer",
+      "gaming fail",
+      "win brag",
+      "team blame",
+      "gaming meme",
+      "annoying gamer"
+    ],
+    "situations": [
+      "when someone boasts about a game win",
+      "when a teammate blames others for a loss",
+      "during mic spam or trash‑talk in online matches",
+      "when a player refuses to admit a mistake",
+      "when entitlement or cringe appears in gaming chat"
+    ],
+    "emotions": [
+      "sarcastic",
+      "mocking",
+      "annoyed"
+    ],
+    "reactionType": "mocking",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.1,
+      "chronicallyonline": 0.7,
+      "society_aunty": 0.3,
+      "detective": 0.2,
+      "linkedin_sigma": 0,
+      "maincharacter": 0.4
+    },
+    "intensity": 0.8,
+    "versatility": 0.6,
+    "negativeTags": [
+      "professional presentation",
+      "serious work discussion",
+      "personal tragedy",
+      "non‑gaming context",
+      "formal meeting"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 273,
+      "originalName": "annoying-gamer-kid",
+      "originalDescription": "A meme template featuring a young gamer kid wearing a headset, with a smug, taunting grin that embodies the 'annoying gamer' archetype.",
+      "originalUsecases": [
+        "React to someone bragging about a win or carry in a game",
+        "Mock a teammate blaming others for a loss",
+        "Caption mic-spam or trash talk during online gameplay",
+        "Poke fun at entitlement or refusing to admit mistakes in gaming",
+        "Convey the stereotypical cringe of an obnoxious gamer vibe in gaming culture"
+      ]
+    }
+  },
+  {
+    "id": "crazy-camel-lol",
+    "filename": "crazy-camel-lol.jpg",
+    "displayName": "Crazy Camel",
+    "description": "Close-up of a camel's head with wildly wide eyes and a goofy, open-mouthed grin, conveying manic or silly energy.",
+    "tags": [
+      "absurd",
+      "chaotic",
+      "goofy optimism",
+      "ridiculous antics",
+      "wild-eyed meme",
+      "overconfident grin",
+      "outlandish plan",
+      "lol reaction"
+    ],
+    "situations": [
+      "reacting to something absurd or chaotic",
+      "commenting on outrageous optimism or confidence",
+      "captioning a plan or idea that’s going off the rails",
+      "laughing at someone’s ridiculous antics",
+      "expressing disbelief or amusement at a goofy situation",
+      "when browsing patterns become wildly unpredictable"
+    ],
+    "emotions": [
+      "amusement",
+      "surprise",
+      "delight"
+    ],
+    "reactionType": "absurdist_reaction",
+    "characters": {
+      "certified_hater": 0.2,
+      "glazer3000": 0.3,
+      "chronicallyonline": 0.9,
+      "society_aunty": 0.5,
+      "detective": 0.1,
+      "linkedin_sigma": 0.2,
+      "maincharacter": 0.7
+    },
+    "intensity": 0.7,
+    "versatility": 0.8,
+    "negativeTags": [
+      "serious tragedy",
+      "formal announcement",
+      "condolence",
+      "professional error",
+      "political debate",
+      "sensitive topic"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 279,
+      "originalName": "crazy-camel-lol",
+      "originalDescription": "Close-up of a camel's head with wildly wide eyes and a goofy, open-mouthed grin, conveying manic or silly energy.",
+      "originalUsecases": [
+        "Reacting to something absurd or chaotic",
+        "Commenting on outrageous optimism or confidence",
+        "Captioning a plan or idea that’s going off the rails",
+        "Laughing at someone’s ridiculous antics",
+        "Expressing disbelief or amusement at a goofy situation"
+      ]
+    }
+  },
+  {
+    "id": "that-would-be-great",
+    "filename": "that-would-be-great.jpg",
+    "displayName": "That Would Be Great",
+    "description": "Deadpan sarcastic meme where a character says 'That would be great' with exasperated yet polite skepticism.",
+    "tags": [
+      "sarcastic response",
+      "polite skepticism",
+      "dry humor",
+      "subverted expectations",
+      "mild frustration",
+      "overhyped plan",
+      "inconvenient request",
+      "dry disbelief",
+      "deadpan sarcasm",
+      "exasperated tone"
+    ],
+    "situations": [
+      "when someone proposes an unrealistic plan",
+      "when a task repeats failure",
+      "when expectations are overblown",
+      "when a suggestion seems impractical",
+      "when a minor achievement is praised excessively",
+      "when a request is inconvenient"
+    ],
+    "emotions": [
+      "sarcasm",
+      "skeptical",
+      "exasperation",
+      "dry amusement"
+    ],
+    "reactionType": "sarcastic_reply",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.7,
+      "society_aunty": 0.5,
+      "detective": 0.3,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.4
+    },
+    "intensity": 0.6,
+    "versatility": 0.85,
+    "negativeTags": [
+      "serious emergencies",
+      "high emotional distress",
+      "celebratory triumph",
+      "deep sorrow",
+      "urgent alerts"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 290,
+      "originalName": "that-would-be-great",
+      "originalDescription": "A reaction meme template featuring a deadpan, slightly exasperated character delivering the line 'That would be great'. The expression and posture convey sarcasm and polite skepticism, making it a versatile sarcastic reply meme.",
+      "originalUsecases": [
+        "Sarcastically responding to an inconvenient or unrealistic request",
+        "Reacting to someone overhyping a plan that won't happen",
+        "Commenting on a situation where expectations are subverted",
+        "Showing polite-but-dry disbelief at a suggested outcome",
+        "Expressing mild frustration with humor"
+      ]
+    }
+  },
+  {
+    "id": "dogeee",
+    "filename": "dogeee.jpg",
+    "displayName": "doge meme",
+    "description": "A Shiba Inu (doge) with a bemused, sly expression—the classic doge meme vibe. The focus is the dog's face, often paired with bold, quirky captions conveying humorous, broken-English emphasis (e.g., 'wow', 'much wow').",
+    "tags": [
+      "surprise",
+      "humor",
+      "self‑deprecation",
+      "overreaction",
+      "exaggerated enthusiasm",
+      "broken english",
+      "wow",
+      "much wow",
+      "tiny achievement"
+    ],
+    "situations": [
+      "when something unexpectedly good happens",
+      "when you make a silly mistake",
+      "when describing a mundane task with excitement",
+      "when mocking an over‑the‑top reaction",
+      "when celebrating a tiny achievement",
+      "when sharing a funny internet find"
+    ],
+    "emotions": [
+      "amusement",
+      "playful",
+      "lighthearted",
+      "surprise"
+    ],
+    "reactionType": "humorous_reaction",
+    "characters": {
+      "certified_hater": 0.4,
+      "glazer3000": 0.5,
+      "chronicallyonline": 0.9,
+      "society_aunty": 0.6,
+      "detective": 0.2,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.8
+    },
+    "intensity": 0.5,
+    "versatility": 0.9,
+    "negativeTags": [
+      "serious tragedy",
+      "formal business announcement",
+      "political controversy",
+      "deep emotional trauma",
+      "personal loss"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 67,
+      "originalName": "dogeee",
+      "originalDescription": "A Shiba Inu (doge) with a bemused, sly expression—the classic doge meme vibe. The focus is the dog's face, often paired with bold, quirky captions conveying humorous, broken-English emphasis (e.g., 'wow', 'much wow').",
+      "originalUsecases": [
+        "React to something surprisingly good or funny",
+        "Lighthearted self-deprecation about a mistake",
+        "Describe a mundane situation with exaggerated enthusiasm",
+        "Comment on or mock an overreaction with humor"
+      ]
+    }
+  },
+  {
+    "id": "really-stoned-guy",
+    "filename": "really-stoned-guy.jpg",
+    "displayName": "Really Stoned Guy",
+    "description": "Close-up of a man with droopy eyes and a slack jaw, giving a glazed, stoned expression; the meme template conveys a dazed, indifferent vibe.",
+    "tags": [
+      "dazed reaction",
+      "stoned expression",
+      "obvious profound sarcasm",
+      "confused disbelief",
+      "slow motivation",
+      "indifferent stare",
+      "bemused confusion",
+      "life-changing sarcasm"
+    ],
+    "situations": [
+      "realizing a simple fact presented as deep",
+      "being under the influence and not caring",
+      "reading a ridiculous statement",
+      "after a slow response to a question",
+      "when a small achievement feels anticlimactic",
+      "seeing repetitive mistakes"
+    ],
+    "emotions": [
+      "bemusement",
+      "indifference",
+      "confusion",
+      "disbelief"
+    ],
+    "reactionType": "dazed_indifferent",
+    "characters": {
+      "certified_hater": 0.3,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.9,
+      "society_aunty": 0.4,
+      "detective": 0.1,
+      "linkedin_sigma": 0,
+      "maincharacter": 0.6
+    },
+    "intensity": 0.5,
+    "versatility": 0.8,
+    "negativeTags": [
+      "urgent emergency",
+      "celebratory victory",
+      "serious tragedy",
+      "intense excitement",
+      "motivational speech"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 99,
+      "originalName": "really-stoned-guy",
+      "originalDescription": "Close-up of a man with droopy eyes and a slack jaw, giving a glazed, stoned expression; the meme template conveys a dazed, indifferent vibe.",
+      "originalUsecases": [
+        "Reacting to something obvious but treated as profound or life-changing",
+        "Captioning being high or too out of it to care",
+        "Expressing disbelief or bemused confusion at a ridiculous statement",
+        "Commenting on slow reactions or lack of motivation in a joking way"
+      ]
+    }
+  },
+  {
+    "id": "teacher",
+    "filename": "teacher.jpg",
+    "displayName": "Teacher Meme",
+    "description": "A meme template featuring a teacher as the central character, typically in a classroom context, conveying authority or sarcasm for humorous punchlines.",
+    "tags": [
+      "teacher",
+      "sarcastic lesson",
+      "obvious mistake",
+      "school rule mock",
+      "grading sarcasm",
+      "homework stress",
+      "life lesson parody",
+      "didactic humor"
+    ],
+    "situations": [
+      "calling out an obvious mistake",
+      "commenting on exam or school stress",
+      "mocking strict rules or homework policies",
+      "delivering an exaggerated life‑lesson punchline",
+      "sarcastic feedback in a work meeting"
+    ],
+    "emotions": [
+      "sarcastic",
+      "condescending",
+      "amused",
+      "annoyed"
+    ],
+    "reactionType": "sarcastic_lesson",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.8,
+      "society_aunty": 0.7,
+      "detective": 0.4,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.6
+    },
+    "intensity": 0.7,
+    "versatility": 0.8,
+    "negativeTags": [
+      "genuine praise",
+      "celebratory achievement",
+      "serious mourning",
+      "romantic confession",
+      "political debate"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 105,
+      "originalName": "teacher",
+      "originalDescription": "A meme template featuring a teacher as the central character, typically in a classroom context, conveying authority or sarcasm for humorous punchlines.",
+      "originalUsecases": [
+        "Calling out someone for a basic or obvious mistake as if giving a lesson",
+        "Commenting on school or exam stress with a sarcastic, didactic tone",
+        "Mocking strict rules, grading, or homework culture",
+        "Delivering exaggerated 'life lesson' punchlines about everyday situations"
+      ]
+    }
+  },
+  {
+    "id": "angry-cat-meme",
+    "filename": "angry-cat-meme.jpg",
+    "displayName": "Angry Cat",
+    "description": "A close-up of a cat with an exaggerated angry expression: narrowed eyes, furrowed brows, and a downturned mouth, giving a grumpy, irate vibe.",
+    "tags": [
+      "petty frustration",
+      "sarcastic irritation",
+      "overreacting brag",
+      "annoyed cat",
+      "grumpy reaction",
+      "irate meme",
+      "funny annoyance",
+      "cat anger",
+      "mild rage"
+    ],
+    "situations": [
+      "repeating the same mistake",
+      "seeing an unfair or ridiculous rule",
+      "someone bragging about a tiny achievement",
+      "minor inconvenience like a slow website",
+      "petty argument in a chat"
+    ],
+    "emotions": [
+      "irritation",
+      "annoyance",
+      "frustration",
+      "sarcasm"
+    ],
+    "reactionType": "grumpy_cat",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.8,
+      "society_aunty": 0.7,
+      "detective": 0.3,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.6
+    },
+    "intensity": 0.7,
+    "versatility": 0.8,
+    "negativeTags": [
+      "serious tragedy",
+      "celebration",
+      "high excitement",
+      "deep sadness"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 176,
+      "originalName": "angry-cat-meme",
+      "originalDescription": "A close-up of a cat with an exaggerated angry expression: narrowed eyes, furrowed brows, and a downturned mouth, giving a grumpy, irate vibe.",
+      "originalUsecases": [
+        "Expressing irritation at something petty or frustrating",
+        "Reacting to an unfair or ridiculous situation with sarcasm",
+        "Commenting on someone bragging or overreacting in a petty way",
+        "Conveying general frustration or disapproval in a humorous, relatable way"
+      ]
+    }
+  },
+  {
+    "id": "patrick-stewart-wtf",
+    "filename": "patrick-stewart-wtf.jpg",
+    "displayName": "WTF Patrick Stewart",
+    "description": "A close-up of Patrick Stewart with wide eyes and an open mouth, conveying astonishment or confusion—the iconic 'WTF Patrick Stewart' meme template.",
+    "tags": [
+      "wtf meme",
+      "astonishment reaction",
+      "confused face",
+      "shocked expression",
+      "disbelief",
+      "absurdity",
+      "nonsensical argument",
+      "unexpected plot twist",
+      "mind blown",
+      "stupid mistake"
+    ],
+    "situations": [
+      "reacting to a nonsensical argument",
+      "seeing an absurd or ridiculous plan",
+      "surprised by an unexpected plot twist",
+      "witnessing a stupid mistake repeated",
+      "confused by chaotic browsing behavior",
+      "encountering a confusing UI change"
+    ],
+    "emotions": [
+      "astonishment",
+      "confusion",
+      "disbelief",
+      "shock"
+    ],
+    "reactionType": "astonishment",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.2,
+      "chronicallyonline": 0.8,
+      "society_aunty": 0.5,
+      "detective": 0.4,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.9
+    },
+    "intensity": 0.85,
+    "versatility": 0.75,
+    "negativeTags": [
+      "celebration",
+      "happy news",
+      "formal announcement",
+      "serious tragedy",
+      "professional apology"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 206,
+      "originalName": "patrick-stewart-wtf",
+      "originalDescription": "A close-up of Patrick Stewart with wide eyes and an open mouth, conveying astonishment or confusion—the iconic 'WTF Patrick Stewart' meme template.",
+      "originalUsecases": [
+        "Reacting to something unbelievably stupid or nonsensical",
+        "Calling out illogical arguments or obvious flaws",
+        "Expressing disbelief at an absurd or ridiculous plan",
+        "Reacting to a surprising plot twist or unexpected revelation"
+      ]
+    }
+  },
+  {
+    "id": "look-marge",
+    "filename": "look-marge.jpg",
+    "displayName": "look-marge",
+    "description": "Marge Simpson’s side-eye with a disapproving, skeptical expression, framed by her iconic blue beehive hair.",
+    "tags": [
+      "disbelief",
+      "side-eye",
+      "skeptical",
+      "cringe",
+      "questionable decision",
+      "simpsons meme",
+      "marge",
+      "sarcasm",
+      "judgment"
+    ],
+    "situations": [
+      "someone makes an obvious contradictory claim",
+      "user repeats the same mistake",
+      "cringe‑worthy statement or action",
+      "failed plan exposed",
+      "skeptical reaction to exaggerated news"
+    ],
+    "emotions": [
+      "disapproval",
+      "skepticism",
+      "sarcasm",
+      "annoyance"
+    ],
+    "reactionType": "skeptical_side_eye",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.1,
+      "chronicallyonline": 0.7,
+      "society_aunty": 0.6,
+      "detective": 0.4,
+      "linkedin_sigma": 0.2,
+      "maincharacter": 0.5
+    },
+    "intensity": 0.6,
+    "versatility": 0.8,
+    "negativeTags": [
+      "celebration",
+      "victory",
+      "success",
+      "approval",
+      "supportive",
+      "happy"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 243,
+      "originalName": "look-marge",
+      "originalDescription": "Marge Simpson’s side-eye with a disapproving, skeptical expression, framed by her iconic blue beehive hair.",
+      "originalUsecases": [
+        "expressing disbelief at someone's claim",
+        "reacting to a cringe-worthy statement or action",
+        "judging a questionable decision with mild sarcasm",
+        "responding to an obvious contradiction or failed plan"
+      ]
+    }
+  },
+  {
+    "id": "archer",
+    "filename": "archer.jpg",
+    "displayName": "Archer Smug",
+    "description": "Smug Sterling Archer face with a raised eyebrow and a sly, confident smirk from the animated series Archer — a sharp, sarcastic reaction look used to convey smugness or dismissiveness.",
+    "tags": [
+      "sarcastic reaction",
+      "smug face",
+      "overconfident boast",
+      "petty win celebration",
+      "confident plan backfire",
+      "dismissive reply",
+      "mocking arrogance"
+    ],
+    "situations": [
+      "responding to a bold claim or boast",
+      "reacting to an overconfident statement",
+      "celebrating a petty win with smug superiority",
+      "mocking a risky plan that will likely backfire",
+      "dismissive reply to nonsense or absurdity"
+    ],
+    "emotions": [
+      "smug",
+      "dismissive",
+      "confident",
+      "sarcastic"
+    ],
+    "reactionType": "smug_face",
+    "characters": {
+      "certified_hater": 0.7,
+      "glazer3000": 0.5,
+      "chronicallyonline": 0.9,
+      "society_aunty": 0.4,
+      "detective": 0.2,
+      "linkedin_sigma": 0.3,
+      "maincharacter": 0.6
+    },
+    "intensity": 0.8,
+    "versatility": 0.75,
+    "negativeTags": [
+      "serious tragedy",
+      "sincere apology",
+      "emotional support",
+      "sympathetic response",
+      "celebration of loss"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 292,
+      "originalName": "archer",
+      "originalDescription": "Smug Sterling Archer face with a raised eyebrow and a sly, confident smirk from the animated series Archer — a sharp, sarcastic reaction look used to convey smugness or dismissiveness.",
+      "originalUsecases": [
+        "Sarcastic reaction to a bold claim or boast",
+        "Responding to an overconfident or ridiculous statement",
+        "Celebrating a petty win with smug superiority",
+        "Expressing confidence in a plan that will likely backfire, in a joking way"
+      ]
+    }
+  },
+  {
+    "id": "went-full-retard",
+    "filename": "went-full-retard.jpg",
+    "displayName": "Went Full Retard",
+    "description": "A meme template associated with the phrase '[slur]', depicting a progression from a normal situation to an extreme, foolish outcome. Visually it often uses a reaction image of a person with a shocked or blank expression and bold captions that escalate the joke.",
+    "tags": [
+      "absurd escalation",
+      "overconfident failure",
+      "argument extreme",
+      "mocking overconfidence",
+      "shocked reaction",
+      "facepalm meme",
+      "foolish outcome",
+      "escalation humor"
+    ],
+    "situations": [
+      "when someone repeats the same mistake",
+      "when a simple plan spirals into absurdity",
+      "when overconfidence leads to a doomed outcome",
+      "when a discussion goes off the rails",
+      "when a tiny achievement is blown out of proportion"
+    ],
+    "emotions": [
+      "shock",
+      "disbelief",
+      "cringe"
+    ],
+    "reactionType": "escalation_shock",
+    "characters": {
+      "certified_hater": 0.9,
+      "glazer3000": 0.1,
+      "chronicallyonline": 0.8,
+      "society_aunty": 0.5,
+      "detective": 0.2,
+      "linkedin_sigma": 0.1,
+      "maincharacter": 0.7
+    },
+    "intensity": 0.85,
+    "versatility": 0.75,
+    "negativeTags": [
+      "serious tragedy",
+      "professional condolences",
+      "respectful mourning",
+      "political endorsement",
+      "sensitive health topics"
+    ],
+    "source": {
+      "dataset": "d-s-b/MemeDataset",
+      "rowIndex": 234,
+      "originalName": "went-full-retard",
+      "originalDescription": "A meme template associated with the phrase '[slur]', depicting a progression from a normal situation to an extreme, foolish outcome. Visually it often uses a reaction image of a person with a shocked or blank expression and bold captions that escalate the joke.",
+      "originalUsecases": [
+        "Calling out someone who takes an argument to an absurd extreme",
+        "Sarcastically praising or mocking overconfident but doomed plans",
+        "Reacting to obviously flawed ideas by showing their escalation"
+      ]
+    }
+  }
+]
