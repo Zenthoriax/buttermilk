@@ -2,7 +2,6 @@
 **/node_modules/
 
 # build output
-**/dist/
 **/build/
 *.zip
 
@@ -37,3 +36,5 @@ Thumbs.db
 *.swp
 *.swo
 /.vscode/
+outcognito-private.pem
+*.pem
