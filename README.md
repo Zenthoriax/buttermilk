@@ -294,7 +294,7 @@ The repository contains the source code for the browser extension and the rest o
 
 ### Video
 
-> 🎥 **DEMO VIDEO PLACEHOLDER — add the final YouTube / Google Drive / submission video link here.**
+> 🎥 **[DEMO VIDEO PLACEHOLDER — add the final YouTube / Google Drive / submission video link here.](https://drive.google.com/file/d/1rvsXPpYOO-j_xRD4BDbBJfoWHvpwloOi/view?usp=sharing)**
 
 The final demo should show the complete flow: **landing page → handle creation → extension connection → browser activity → generated incident → personality reactions → meme response.**
 
