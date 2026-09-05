@@ -1,28 +1,39 @@
 import { Amplify } from "aws-amplify";
 
+const appUrl =
+  process.env.NEXT_PUBLIC_APP_URL ||
+  "http://localhost:3000";
+
 Amplify.configure({
   Auth: {
     Cognito: {
-      userPoolId: process.env.NEXT_PUBLIC_COGNITO_USER_POOL_ID!,
-      userPoolClientId: process.env.NEXT_PUBLIC_COGNITO_CLIENT_ID!,
+      userPoolId:
+        process.env.NEXT_PUBLIC_COGNITO_USER_POOL_ID!,
+
+      userPoolClientId:
+        process.env.NEXT_PUBLIC_COGNITO_CLIENT_ID!,
 
       loginWith: {
         oauth: {
-          domain: process.env.NEXT_PUBLIC_COGNITO_DOMAIN!,
+          domain:
+            process.env.NEXT_PUBLIC_COGNITO_DOMAIN!,
 
-           scopes: ["openid"],
+          scopes: [
+            "openid"
+          ],
 
           redirectSignIn: [
-            "http://localhost:3000/callback",
+            `${appUrl}/callback`
           ],
 
           redirectSignOut: [
-            "http://localhost:3000",
+            `${appUrl}/`
           ],
 
-          responseType: "code",
-        },
-      },
-    },
-  },
+          responseType:
+            "code"
+        }
+      }
+    }
+  }
 });
