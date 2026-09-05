@@ -4,6 +4,8 @@
   "version": "0.1.0",
   "manifest_version": 3,
 
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz8kmziUrrglxgv8d8GhyVcXonW1WbPfew2Dm2m6m9PQZmTv9KV8QwvmJQNe7Q7MhXQ7Yo2T5Uet1+NdJ2DsUylRIYQcqbYeggHxU61rv+ubvCCacfrDvlXscOmtdCiEkmszBvdvUecItCBU48EqippaWNB9PqR0lWzNn92Nh2cFJyX4aqsrVOcjEsx/FAu0FqN3V35ZAoOy/TNRg/5Feny7YzolOkYhf8Kj88qPGck6u+hUBfXWt3slzQerqMpFNnc1QJafmsv679GS4mwSHVwJ9U6Ib1rKRLYZwDysgnpruA4T2J9K7YW11SG8F6KBE9c2ObCm08xTnpk5Q5sGd9QIDAQAB",
+
   "permissions": [
     "storage",
     "tabs",
@@ -40,7 +42,8 @@
 
   "externally_connectable": {
     "matches": [
-      "http://localhost:3000/*"
+      "http://localhost:3000/*",
+      "https://main.d12hruzc1k0ktq.amplifyapp.com/*"
     ]
   }
 }
